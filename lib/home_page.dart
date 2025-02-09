@@ -5,6 +5,7 @@ import 'package:fire_base_project/widget/text_form_field_widget.dart';
 import 'package:flutter/material.dart';
 
 class HomePage extends StatefulWidget {
+  // ignore: prefer_const_constructors_in_immutables
   HomePage({super.key});
 
   @override

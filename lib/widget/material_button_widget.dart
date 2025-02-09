@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+// ignore: must_be_immutable
 class MaterialButtonWidget extends StatelessWidget {
  MaterialButtonWidget({super.key, required this.onPressed});
   void Function()? onPressed;//callback function --fn. in a place & calling in another
